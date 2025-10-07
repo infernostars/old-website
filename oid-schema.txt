@@ -1,0 +1,21 @@
+# [infernostars oid schema]
+
+This document currently logs all existing OIDs under the following OID, in various schemas:
+
+Dot Notation:
+    1.3.6.1.4.1.61117.9000.1
+
+ASN.1 Notation:
+    {iso(1) identified-organization(3) dod(6) internet(1) private(4) enterprise(1) 61117 9000 infernostars(1)}
+
+OID-IRI Notation:
+    /ISO/Identified-Organization/6/1/4/1/61117/9000/1
+
+This document will use the dot notation, and shorthand "1.3.6.1.4.1.61117.9000.1" to "[infernostars]" for convenience.
+For example, "1.3.6.1.4.1.61117.9000.1.1" would be shortened to "[infernostars].1".
+
+## Arcs
+### [infernostars].1 / projects
+#### [infernostars].1.1 / 5btas
+#### [infernostars].1.2 / fuse programming language / fusepl
+### [infernostars].65535 / reserved
